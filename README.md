@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate and aspiring data analyst, looking to turn data into decisions!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brtechart-ben" alt="brtechart-ben" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
